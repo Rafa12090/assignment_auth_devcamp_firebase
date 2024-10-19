@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59396184689",
+    "project_id": "authfirebase-7e4de",
+    "storage_bucket": "authfirebase-7e4de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59396184689:android:3fd20386a8f531058919d0",
+        "android_client_info": {
+          "package_name": "com.example.assingment_auth_devcamp_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB--ToOwF6lJcPt5pQYrFDN-pwOWDfJXqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
